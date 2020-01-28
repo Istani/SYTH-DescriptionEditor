@@ -1,0 +1,15 @@
+{
+  "name": "SYTH-DescriptionEditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Sascha Kaufmann <sascha.u.kaufmann@googlemail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.10"
+  }
+}
