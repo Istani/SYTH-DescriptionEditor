@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "Sascha Kaufmann <sascha.u.kaufmann@googlemail.com>",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "electron": "^7.1.10",
     "electron-packager": "^14.2.0"
   }
